@@ -1,0 +1,12 @@
+1. Danh sách server Kết nối / Thông tin server nếu đang connect, Danh sách các user đnag online
+2. Cho phép quản lý danh sách server cho client : insert , deleted, Update và save file config  
+3. Đăng ký chat user ( Đăng ký từng ứng dụng client)
+4. Khung Chat đầy đủ thông tin người chat, nội dung chat.
+5. Cho phép ENTER khi send message , NEW LINE ==> SHIFT ENTER
+6. CHo phép sử dụng emoji đơn giản( min 5 emoji)
+7. Chat với nhiều User (chia nhiều Tab)
+8.Cho Phép gửi file 
+9.Cho phép tạo Group để chat
+10. Cho phép sử dụng voice chat.
+
+https://www.youtube.com/watch?v=jQMqfBLow_U
